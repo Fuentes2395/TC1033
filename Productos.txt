@@ -1,0 +1,6 @@
+americano cafe 35.55 40 AME/3555
+latte cafe 53.40 60 LAT/5340
+espresso cafe 18.30 70 ESP/1830
+te_verde te 40.00 75 TEV/4000
+te_negro te 40.00 75 TEN/4000
+agua otros 24.49 80 AUA/2449
